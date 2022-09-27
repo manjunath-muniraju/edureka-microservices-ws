@@ -1,1 +1,7 @@
 #
+/.metadata/
+
+mvnw/
+.mvn/
+mvnw
+mvnw.cmd
